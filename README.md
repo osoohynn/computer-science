@@ -1,5 +1,7 @@
 # 백엔드 개발의 모든 것(Everything of BackEnd Develop)
 
+### ! 추가해야 할 내용, 잘못된 내용, 오타, 어색한 표현을 발견하신 분은 이슈로 알려주시면 감사합니다.
+
 ## 목차(Content)
 ### 개념 - 컴퓨터 공학(Computer Science)
 1. 컴퓨터 시스템 일반(Computer System)
